@@ -1,0 +1,9 @@
+/* * * * * * * * * * * * */
+/* search_bar.js */
+.ant-row:first-child {
+	margin-top: 1em;
+}
+#search-bar .anticon-search {
+	font-weight : 700;
+}
+/* * * * * * * * * * * * */
